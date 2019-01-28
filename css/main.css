@@ -4,19 +4,19 @@
 
 .title
 {
+	width: 1355px;
 	text-align: center;
-	font-size: 50px;
-	font-family: 'Vidaloka', serif;
-	color: #004c12;
-	text-decoration: underline;
+	font-size: 65px;
+	font-family: 'Brawler', serif;
+	color: black;
+	text-shadow: 3px 2px #008118;
 }
 
 .trees
 {
-	width: 900px;
-    position: absolute;
-    right: 290px;
-    bottom: 476px;
+	width: 1000px;
+	margin-top: 30px;
+	margin-left: 170px;
     border: 1px solid black;
 }
 
@@ -24,174 +24,80 @@
 {
 	width: 350px;
 	position: absolute;
-	left: 248px;
-	bottom: 100px;
+	margin-left: 170px;
+	margin-top: 70px;
 	border: 1px solid black;
 }
 
 .P1
 {
-	display: flex;
-	flex-direction: column;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 700px;
-    margin-left: 10px;
-
+	position: absolute;
+	margin-top: 430px;
+	margin-left: 175px;
 }
 
 .man
 {
 	width: 350px;
 	position: absolute;
-	right: 290px;
-	bottom: 100px;
+	margin-left: 820px;
+	margin-top: 70px;
 	border: 1px solid black;
 }
 
 .P2
 {
-	display: flex;
-	flex-direction: column;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: -30px;
-    margin-left: 10px;
-    flex-direction: column;
+	position: absolute;
+	margin-top: 430px;
+	margin-left: 820px;
 }
 
 .babyFish
 {
 	position: absolute;
-	width: 900px;
-	left: 250px;
-	top: 800px;
+	width: 1000px;
+	left: 180px;
+	top: 950px;
 	border: 1px solid black;
 }
 
 .P3
 {
-	display: flex;
-	flex-direction: column;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 590px;
-    margin-left: 10px;
-    flex-direction: column;
+	position: absolute;
+	margin-top: 1118px;
+	margin-left: 190px;
 }
 
 .h2
 {
+	margin-top: 1300px;
 	text-align: center;
-	font-size: 25px;
-	font-family: 'Vidaloka', serif;
-	color: #004c12;
-	text-decoration: underline;
-	bottom: 70px;
-
+	font-size: 35px;
+	font-family: 'Brawler', serif;
+	color: black ;
+	text-shadow: 3px 2px #008118;
+	width: 1355px;
 }
+
 
 .P4
 {
-	display: flex;
-	flex-direction: column;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 10px;
-    margin-left: 10px;
-    flex-direction: column;
-}
-
-.rainbow
-{
 	position: absolute;
-	left: 250px;
-	top: 1550px;
-	border: 1px solid black;
+	margin-top: 30px;
+	margin-left: 190px;
 }
 
-
-.h3
+p
 {
-	text-align: center;
-	font-size: 25px;
-	font-family: 'Vidaloka', serif;
-	color: #004c12;
-	text-decoration: underline;
-	bottom: 2100px;
-
+	line-height: 20px;
+	font-family: 'Open Sans', sans-serif;
 }
 
-.P5
+p:first-letter
 {
-	display: flex;
-	flex-direction: column;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 80px;
-    margin-left: 320px;
-    flex-direction: column;
+	font-weight: bold;
+	font-size: 30px;
+
 }
 
 
-.P6
-{
-	text-align: center;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 500px;
-    margin-left: 10px;
-    flex-direction: column;
-}
-
-.fishSide
-{
-	position: absolute;
-	left: 250px;
-	top: 2400px;
-	border: 1px solid black;
-}
-
-.fishCut
-{
-	position: absolute;
-	right: 160px;
-	bottom: 2600;
-	border: 1px solid black;
-}
-
-.P7
-{
-	text-align: center;
-	font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 600px;
-    margin-left: 10px;
-    flex-direction: column;
-}
-
-.fish
-{
-	position: absolute;
-	bottom: 2850;
-	left: 350px;
-	border: 1px solid black;
-}
-
-.P8
-{
-	text-align: center;
-    font-family: 'Lato', sans-serif;
-	font-size: 15px;
-	color: black;
-	margin-top: 400px;
-    margin-left: 10px;
-    flex-direction: column;
-}

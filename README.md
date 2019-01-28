@@ -5,3 +5,15 @@ created a wireframe for project to see overall layout.
 started to create index.html and main.css
 
 created reset.css and main.js
+
+added index.html and css.
+
+added all images and texts.
+
+startd using css.
+
+updated index.html.
+
+updated css.
+
+halfway done project.
