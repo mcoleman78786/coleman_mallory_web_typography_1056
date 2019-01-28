@@ -1,0 +1,197 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.title
+{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Vidaloka', serif;
+	color: #004c12;
+	text-decoration: underline;
+}
+
+.trees
+{
+	width: 900px;
+    position: absolute;
+    right: 290px;
+    bottom: 476px;
+    border: 1px solid black;
+}
+
+.river
+{
+	width: 350px;
+	position: absolute;
+	left: 248px;
+	bottom: 100px;
+	border: 1px solid black;
+}
+
+.P1
+{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 700px;
+    margin-left: 10px;
+
+}
+
+.man
+{
+	width: 350px;
+	position: absolute;
+	right: 290px;
+	bottom: 100px;
+	border: 1px solid black;
+}
+
+.P2
+{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: -30px;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.babyFish
+{
+	position: absolute;
+	width: 900px;
+	left: 250px;
+	top: 800px;
+	border: 1px solid black;
+}
+
+.P3
+{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 590px;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.h2
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Vidaloka', serif;
+	color: #004c12;
+	text-decoration: underline;
+	bottom: 70px;
+
+}
+
+.P4
+{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 10px;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.rainbow
+{
+	position: absolute;
+	left: 250px;
+	top: 1550px;
+	border: 1px solid black;
+}
+
+
+.h3
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Vidaloka', serif;
+	color: #004c12;
+	text-decoration: underline;
+	bottom: 2100px;
+
+}
+
+.P5
+{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 80px;
+    margin-left: 320px;
+    flex-direction: column;
+}
+
+
+.P6
+{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 500px;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.fishSide
+{
+	position: absolute;
+	left: 250px;
+	top: 2400px;
+	border: 1px solid black;
+}
+
+.fishCut
+{
+	position: absolute;
+	right: 160px;
+	bottom: 2600;
+	border: 1px solid black;
+}
+
+.P7
+{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 600px;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.fish
+{
+	position: absolute;
+	bottom: 2850;
+	left: 350px;
+	border: 1px solid black;
+}
+
+.P8
+{
+	text-align: center;
+    font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: black;
+	margin-top: 400px;
+    margin-left: 10px;
+    flex-direction: column;
+}
