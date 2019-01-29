@@ -17,3 +17,9 @@ updated index.html.
 updated css.
 
 halfway done project.
+
+added background image to html.
+
+updated project, worked on css and html.
+
+finished project.
