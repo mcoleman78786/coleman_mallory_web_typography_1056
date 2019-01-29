@@ -4,12 +4,14 @@
 
 .title
 {
+	margin-bottom: 5px;
+	margin-top: 20px;
 	width: 1355px;
 	text-align: center;
 	font-size: 65px;
 	font-family: 'Brawler', serif;
-	color: black;
-	text-shadow: 3px 2px #008118;
+	color: white;
+	text-shadow: 3px 2px #08d12e;
 }
 
 .trees
@@ -17,48 +19,48 @@
 	width: 1000px;
 	margin-top: 30px;
 	margin-left: 170px;
-    border: 1px solid black;
+    border: 1px solid #08d12e;
 }
 
 .river
 {
 	width: 350px;
 	position: absolute;
-	margin-left: 170px;
+	margin-left: 250px;
 	margin-top: 70px;
-	border: 1px solid black;
+	border: 1px solid #08d12e;
 }
 
 .P1
 {
 	position: absolute;
 	margin-top: 430px;
-	margin-left: 175px;
+	margin-left: 250px;
 }
 
 .man
 {
 	width: 350px;
 	position: absolute;
-	margin-left: 820px;
+	margin-left: 750px;
 	margin-top: 70px;
-	border: 1px solid black;
+	border: 1px solid #08d12e;
 }
 
 .P2
 {
 	position: absolute;
 	margin-top: 430px;
-	margin-left: 820px;
+	margin-left: 750px;
 }
 
 .babyFish
 {
 	position: absolute;
 	width: 1000px;
-	left: 180px;
-	top: 950px;
-	border: 1px solid black;
+	left: 190px;
+	top: 985px;
+	border: 1px solid #08d12e;
 }
 
 .P3
@@ -74,9 +76,10 @@
 	text-align: center;
 	font-size: 35px;
 	font-family: 'Brawler', serif;
-	color: black ;
-	text-shadow: 3px 2px #008118;
+	color: white;
+	text-shadow: 3px 2px #08d12e;
 	width: 1355px;
+	text-decoration: underline;
 }
 
 
@@ -87,10 +90,87 @@
 	margin-left: 190px;
 }
 
+.h3
+{
+	margin-top: 500px;
+	text-align: center;
+	font-size: 35px;
+	font-family: 'Brawler', serif;
+	color: white;
+	text-shadow: 3px 2px #08d12e;
+	width: 1355px;
+	text-decoration: underline;
+}
+
+.rainbowFish
+{
+	position: absolute;
+	width: 300px;
+	margin-left: 280px;
+	margin-top: 90px;
+	border: 1px solid #08d12e;
+}
+
+.P5
+{
+	position: absolute;
+	margin-top: 90px;
+	margin-left: 590px;
+}
+
+.P6
+{
+	position: absolute;
+	margin-top: 800px;
+	margin-left: 190px;
+}
+
+.fishCut
+{
+	position: absolute;
+	width: 400px;
+	margin-left: 200px;
+	margin-top: 900px;
+	border: 1px solid #08d12e;
+}
+
+.sideView
+{
+	position: absolute;
+	width: 400px;
+	margin-left: 700px;
+	margin-top: 900px;
+	border: 1px solid #08d12e;
+}
+
+.P7
+{
+	position: absolute;
+	margin-top: 1300px;
+	margin-left: 190px;
+}
+
+.wallFish
+{
+   position: absolute;
+	width: 600px;
+	margin-top: 1400px;
+	margin-left: 190px;
+	border: 1px solid #08d12e;
+
+}
+
+.P8
+{
+	text-align: center;
+	margin-top: 2000px;
+}
+
 p
 {
 	line-height: 20px;
 	font-family: 'Open Sans', sans-serif;
+	color: white;
 }
 
 p:first-letter
@@ -98,6 +178,12 @@ p:first-letter
 	font-weight: bold;
 	font-size: 30px;
 
+}
+
+html
+{
+	background-image: url(file:///Users/mallorycoleman/Documents/coleman_mallory_web_typography_1056/images/background_image.jpg);
+	
 }
 
 
